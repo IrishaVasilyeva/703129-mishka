@@ -1,20 +1,20 @@
 @font-face {
-  font-family: 'Open-Sans';
-  src: url('../../source/fonts/opensans.woff2') format('woff2'), url('../../source/fonts/opensans.woff') format('woff');
+  font-family: "Open-Sans";
+  src: url("../../fonts/opensans.woff2") format("woff2"), url("../../fonts/opensans.woff") format(woff');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Open-Sans';
-  src: url('../../source/fonts/opensansbold.woff2') format('woff2'), url('../../source/fonts/opensansbold.woff') format('woff');
+  font-family: "Open-Sans";
+  src: url("../../fonts/opensansbold.woff2") format("woff2"), url("../../fonts/opensansbold.woff") format("woff");
   font-weight: 700;
   font-style: normal;
 }
 
 body {
   background: #ffffff;
-  font-family: 'Open-Sans', Arial, sans-serif;
+  font-family: "Open-Sans", "Arial", sans-serif;
   font-size: 15px;
   line-height: 30px;
   font-weight: 400;
@@ -56,7 +56,7 @@ img {
 }
 
 .main__title {
-  font-family: 'Open-Sans', Arial, sans-serif;
+  font-family: "Open-Sans", "Arial", sans-serif;
   font-size: 27px;
   line-height: 30px;
   font-weight: 700;
@@ -64,7 +64,7 @@ img {
 }
 
 .title {
-  font-family: 'Open-Sans', Arial, sans-serif;
+  font-family: "Open-Sans", "Arial", sans-serif;
   font-size: 25px;
   line-height: 30px;
   font-weight: 700;
@@ -72,7 +72,7 @@ img {
 }
 
 .button {
-  font-family: 'Open-Sans', Arial, sans-serif;
+  font-family: "Open-Sans", "Arial", sans-serif;
   font-size: 17px;
   line-height: 20px;
   font-weight: 700;
